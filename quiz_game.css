@@ -1,0 +1,20 @@
+#design{
+    background-image:"https://previews.123rf.com/images/9george/9george1707/9george170700438/82113680-math-linear-mathematics-education-circle-background-with-geometrical-plots-seamless-background-doodl.jpg" ;
+}
+#text{
+    background-color: red;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    font-weight: bolder;
+    width: 300px;
+    height: 50px;
+}
+#output{
+    border-radius: 10px;
+    padding:10px;
+    float:none;
+    text-align:center
+}
